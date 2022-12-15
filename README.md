@@ -26,12 +26,14 @@
 <br />
 
 [the_boeing_company]: https://www.boeing.com/
+<!---
 
 ---
+
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VanishSun&show_icons=true&hide_border=true&theme=transparent" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanishSun&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake)](https://github.com/anuraghazra/github-readme-stats)
-
+---!>
 
 
 
