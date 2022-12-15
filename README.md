@@ -1,16 +1,36 @@
-### Hi there 👋
+#### Hi there, I'm Ivan Verozub 👋 
 
-<!--
-**VanishSun/VanishSun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Python Developer with engineering background at [The Boeing Company][the_boeing_company].
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Python backend at Yandex Practicum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Get in touch: [@vanish_s](http://t.me/vanish_s "Telegram account")
+---
+
+### Languages, Frameworks and Tools:
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
+<img align="left" alt="Django-rest-framework" width="52px" src="https://www.django-rest-framework.org/img/logo.png" />
+<img align="left" alt="Celery" width="26px" src="https://avatars.githubusercontent.com/u/319983?s=200&v=4" />
+<img align="left" alt="Flower" width="26px" src="https://camo.githubusercontent.com/9d60f04124343a4cd467646ebd1a1d6c20eaa9f737a188da3d5618c183ab301b/68747470733a2f2f666c6f7765722e6465762f5f6e6578742f696d6167652f3f75726c3d2532465f6e6578742532467374617469632532466d65646961253246666c6f7765725f77686974655f626f726465722e63323031326537302e706e6726773d36343026713d3735" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="Redis" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+
+<br />
+<br />
+
+[the_boeing_company]: https://www.boeing.com/
+<!---
+
+---
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VanishSun&show_icons=true&hide_border=true&theme=transparent" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanishSun&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake)](https://github.com/anuraghazra/github-readme-stats)
+---!>
+
