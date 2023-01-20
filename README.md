@@ -8,7 +8,7 @@
 ---
 
 ### Languages, Frameworks and Tools:
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="26px" src="https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />
 <img align="left" alt="Django-rest-framework" width="52px" src="https://www.django-rest-framework.org/img/logo.png" />
 <img align="left" alt="Celery" width="26px" src="https://avatars.githubusercontent.com/u/319983?s=200&v=4" />
